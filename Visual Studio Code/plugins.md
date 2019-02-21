@@ -23,6 +23,22 @@
 >
 > **Ссылка на репозиторий:** https://github.com/Microsoft/vscode-loc
 
+## * Работа с тегами
+
+**Имя расширения: Auto Close Tag (vscode-auto-close-tag)**
+> **Описание:** Автоматическое добавление  закрывающего тега HTML/XML.
+>
+> **Дополнительная информация:** [Документация](https://github.com/formulahendry/vscode-auto-close-tag/blob/master/README.md)
+>
+> **Ссылка на репозиторий:** https://github.com/formulahendry/vscode-auto-close-tag
+
+**Имя расширения: Auto Rename Tag (vscode-auto-rename-tag)**
+> **Описание:** Автоматическое переименование парного тега HTML/XML.
+>
+> **Дополнительная информация:** [Документация](https://github.com/formulahendry/vscode-auto-rename-tag/blob/master/README.md)
+>
+> **Ссылка на репозиторий:** https://github.com/formulahendry/vscode-auto-rename-tag
+
 ## * Работа с текстом
 
 **Имя расширения: Рыбный Текст (vscode-fish-text)**
@@ -72,11 +88,34 @@
 **Имя расширения: Bracket Pair Colorizer 2 (Bracket-Pair-Colorizer-2)**
 > **Описание:** Подсвечивает цветом парные скобки, чтобы сделать их более читаемыми.
 >
-> **Дополнительная информация:** [Документация]()
+> **Дополнительная информация:** [Документация](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2/blob/develop/README.md)
 >
-> **Ссылка на репозиторий:** 
+> **Ссылка на репозиторий:** https://github.com/CoenraadS/Bracket-Pair-Colorizer-2
 
-**Имя расширения:**  ()
+## * Выполнение кода
+
+**Имя расширения: Code Runner (vscode-code-runner)**
+> **Описание:** Выполнение фрагмента кода на нескольких языках программирования: C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, F# (.NET Core), C# Script, C# (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C, Rust, Racket, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp.
+>
+> **Дополнительная информация:** [Документация](https://github.com/formulahendry/vscode-code-runner/blob/master/README.md)
+>
+> **Ссылка на репозиторий:** https://github.com/formulahendry/vscode-code-runner
+
+**Имя расширения: Live Server (vscode-live-server)**
+> **Описание:** Запуск локального сервера разработки с функцией live reload для статических и динамических страниц.
+>
+> **Дополнительная информация:** [Документация](https://github.com/ritwickdey/vscode-live-server/blob/master/README.md)
+>
+> **Ссылка на репозиторий:** https://github.com/ritwickdey/vscode-live-server
+
+**Имя расширения: open in browser (vscode-extensions-open-in-browser)**
+> **Описание:** Открытие любых файлов в браузере.
+>
+> **Дополнительная информация:** [Документация](https://github.com/SudoKillMe/vscode-extensions-open-in-browser/blob/master/README.md)
+>
+> **Ссылка на репозиторий:** https://github.com/SudoKillMe/vscode-extensions-open-in-browser
+
+**Имя расширения:  ()**
 > **Описание:** .
 >
 > **Дополнительная информация:** [Документация]()
